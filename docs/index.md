@@ -4,13 +4,13 @@ Welcome to the Sales Analytics Dashboard documentation!
 
 ## Live Demo
 
-[Try the Live Demo &rarr;](./demo/)
+[Try the Live Demo →](./demo/)
 
 ## Features
 
-- Interactive charts
-- Sales filtering
-- Downloadable reports
+- Interactive sales charts
+- Sales filtering by date, region, and product
+- Downloadable sales reports
 
 ## GitHub Repository
 
