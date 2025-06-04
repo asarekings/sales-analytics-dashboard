@@ -1,0 +1,9 @@
+site_name: Sales Analytics Dashboard Docs
+site_url: https://asarekings.github.io/sales-analytics-dashboard/
+repo_url: https://github.com/asarekings/sales-analytics-dashboard
+theme:
+  name: material
+nav:
+  - Home: index.md
+  - Usage: usage.md
+  - Features: features.md

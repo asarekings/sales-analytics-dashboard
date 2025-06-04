@@ -1,0 +1,19 @@
+# Ensure consistent line endings
+* text=auto
+
+# Always use LF for Python source files
+*.py text eol=lf
+
+# Force CSV and Markdown to use LF
+*.csv text eol=lf
+*.md text eol=lf
+
+# Treat images and binaries as binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.pdf binary
+*.zip binary
+*.gz binary

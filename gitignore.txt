@@ -1,0 +1,64 @@
+# ---- Python bytecode and cache files ----
+__pycache__/
+*.py[cod]
+*$py.class
+
+# ---- Virtual environments ----
+venv*/
+.venv*/
+env*/
+ENV*/
+
+# ---- Jupyter Notebook Checkpoints ----
+.ipynb_checkpoints
+
+# ---- OS generated files ----
+.DS_Store
+Thumbs.db
+
+# ---- Editor directories and project files ----
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# ---- Distribution / packaging ----
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# ---- Logs and databases ----
+*.log
+*.sqlite3
+
+# ---- Documentation builds ----
+site/
+docs/_build/
+
+# ---- Miscellaneous ----
+*.bak
+*.tmp
+
+# ---- Ignore test data and output ----
+*.csv
+*.tsv
+*.parquet
+*.xls
+*.xlsx
+
+# ---- Local environment overrides ----
+.env
+.env.*
+*.env
