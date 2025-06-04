@@ -1,5 +1,17 @@
 # Sales Analytics Dashboard Documentation
 
-Welcome to the documentation for Sales Analytics Dashboard!
+Welcome to the Sales Analytics Dashboard documentation!
 
-- [GitHub Repository](https://github.com/asarekings/sales-analytics-dashboard)
+## Live Demo
+
+[Try the Live Demo &rarr;](./demo/)
+
+## Features
+
+- Interactive charts
+- Sales filtering
+- Downloadable reports
+
+## GitHub Repository
+
+[View on GitHub](https://github.com/asarekings/sales-analytics-dashboard)

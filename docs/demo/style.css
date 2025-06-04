@@ -1,0 +1,29 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 2em;
+  background: #f8f9fa;
+}
+#dashboard {
+  background: #fff;
+  padding: 2em;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.07);
+  max-width: 500px;
+}
+button {
+  background: #007bff;
+  color: #fff;
+  border: none;
+  padding: 0.75em 1.5em;
+  border-radius: 4px;
+  font-size: 1em;
+  cursor: pointer;
+}
+button:hover {
+  background: #0056b3;
+}
+canvas {
+  margin-top: 2em;
+  background: #fff;
+  border: 1px solid #ccc;
+}
